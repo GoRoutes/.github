@@ -41,7 +41,6 @@
 - **Linguagens**: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Frontend**: ![VueJs](https://img.shields.io/badge/-Vuejs-3FB17F?logo=vue&logoColor=black)
 - **Backend**: ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-<!-- - **DevOps**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-232F3E?logo=Heroku) -->
 - **Ferramentas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
 
 ---
