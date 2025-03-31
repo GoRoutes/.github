@@ -126,4 +126,15 @@
 
 <img width=100% src="../images/FluxCycleRoutes.jpg"/>
 
+---
+
+## Proposta Descrição
+Gerenciar rotas de vans
+
+O foco do GoRoutes é permitir um melhor gerenciamente de rotas para os mototristas, alunos, e admins
+
+No sistema haverá 3 niveis de ususario um para o admin que gerenciara tods as rotas sem restrições o motorista que pode fazer pequenas alterações em sua rota, e o aluno que poderá apenas visualizar e dizer se voltara em horarios diferentes
+
+O sistema poderá calcular rotas automaticamentes com base nas informçõe que os alunos forneceram sobre seu retorno ou sobre seus pontos de parada personalizado.o sistema tambem devera mostrar ao aluno sua posição de parada, exemplo(Voce é 4° a ser deixado), juntamente com sistema de localização para os responsaveis visualizar a posição do motorista
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/>
