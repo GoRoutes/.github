@@ -124,6 +124,6 @@
 
 ## Fluxo de Serviço:
 
-<img width=100% src="../images/FluxCycle.jpg"/>
+<img width=100% src="../images/FluxCycleRoutes.jpg"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/>
