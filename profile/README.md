@@ -52,4 +52,67 @@
 - 📄 **Docs**: [Docs_GoRoutes](https://github.com/GoRoutes/Docs_GoRoutes)  
 - 🎨 ✏️ **Figma**: [GoRoutes Design](https://www.figma.com/design/Pm53DckyC128A7oBmkp6RP/GoRoutes?node-id=0-1&p=f&t=4rlqR8FZlcixSg3n-0)  
 
+---
+
+## 🛠 Padrões:
+
+<details>
+  <summary>Padrão de branch</summary>
+    
+  - **ESCOPO:** Deve refletir a funcionalidade ou tela que está sendo trabalhada.
+  - **NUMERODATAREFA:** O número da tarefa ou issue correspondente.
+  - **TIPO:** Tipo de tarefa (Feat, Fix, Chore).
+    
+  ### Exemplos de branches:
+    Tarefa: Tela de Login(#1)
+    Nome da Branch: FEAT(Login)-1
+
+    Tarefa: Tela de Cadastro (#3)
+    Nome da Branch: FEAT(Register)-3
+    
+</details>
+
+<details>
+  <summary>Padrão de Commit</summary>
+    
+  - **ESCOPO:** Deve refletir a funcionalidade ou tela que está sendo trabalhada.
+  - **NUMERODATAREFA:** O número da tarefa ou issue correspondente.
+  - **TIPO:** Tipo de tarefa (Feat, Fix, Chore).
+    
+  ### Exemplos de branches:
+    Tarefa: Tela de Login(#1)
+    Nome da Branch: FEAT(Login): Fiz a tela de logn [Refs: #3]
+
+    Tarefa: Tela de Cadastro (#3)
+    Nome da Branch: FEAT(Register): Fiz a tela de registro [Refs: #3]
+    
+</details>
+
+<details>
+  <summary>Padrão de Roteiro de Pull Request</summary>
+    
+ ### Test Plan for **Nome Da Task**
+
+#### Actions Taken:
+- <<Ação Realizada 1>>
+- <<Ação Realizada 2>>
+
+#### Required Tests:
+1. <<Fazer ação x>>
+2. <<Fazer ação y>>
+
+#### Tested Browsers:
+- [ ] Chrome
+- [x] Edge
+- [ ] Firefox
+- [ ] Safari
+- [ ] Opera
+
+#### Notes:
+- <<Notas/Observações>>
+
+#### Closing Keywords:
+- Resolves #<<Número da Issue>>
+</details>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=022840&height=120&section=footer"/>
