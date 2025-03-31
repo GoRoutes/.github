@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=022840&size=35&center=true&vCenter=true&width=1000&lines=Go+Routes,+The+Best+App+Of+Manage+Routes)](https://git.io/typing-svg)
 
 ---
+## Descrição do Projeto:
+
+> Após dialogarmos com administradores de diversas empresas de transporte escolar, identificamos que o gerenciamento manual das rotas frequentemente se revela um processo moroso e ineficiente, especialmente quando há um grande número de alunos a serem atendidos. Diante desse cenário, nosso sistema foi concebido com o propósito de otimizar essa gestão, oferecendo um serviço automatizado de planejamento de rotas. A solução permite que a empresa insira os endereços dos alunos, bem como os pontos de partida e destino, para então calcular a rota mais eficiente. Além disso, o sistema realiza a distribuição estratégica dos alunos entre diferentes veículos, agrupando aqueles cujos trajetos apresentam maior similaridade.
+
+---
 
 ## Membros:
 
