@@ -54,7 +54,8 @@
 
 - 🚀 **BackEnd**: [GoRoutes_BackEnd](https://github.com/GoRoutes/GoRoutes_BackEnd)  
 - 🎨 **FrontEnd**: [GoRoutes_FrontEnd](https://github.com/GoRoutes/GoRoutes_FrontEnd)  
-- 📄 **Docs**: [Docs_GoRoutes](https://github.com/GoRoutes/Docs_GoRoutes)  
+- 📄 **Docs**: [Docs_GoRoutes](https://github.com/GoRoutes/Docs_GoRoutes)
+- 📄 **Docs-Pages**: [Docs_GoRoutes](https://goroutes.github.io/Docs_GoRoutes)
 - 🎨 ✏️ **Figma**: [GoRoutes Design](https://www.figma.com/design/Pm53DckyC128A7oBmkp6RP/GoRoutes?node-id=0-1&p=f&t=4rlqR8FZlcixSg3n-0)  
 
 ---
