@@ -21,6 +21,13 @@
    <a href="https://github.com/AnthonyLoche"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/4nthony_lch/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
+   <td align="center">
+   <b>Yohana Jahn</b> <br>
+   <a href="https://github.com/YohanaJahn"><img src="https://avatars.githubusercontent.com/u/131276303?v=4" width="80px;" alt="Pedro"/></a>
+   <br>
+   <a href="https://github.com/YohanaJahn"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
+</td>
 <td align="center">
    <b>Jonatas Silva Peraza</b> <br>
    <a href="https://github.com/jonatasperaza"><img src="https://avatars.githubusercontent.com/u/73970519?v=4" width="80px;" alt="Jonatas"/></a>
@@ -33,6 +40,14 @@
    <a href="https://github.com/PedroHenmalaquias"><img src="https://avatars.githubusercontent.com/u/127138118?v=4" width="80px;" alt="Pedro"/></a>
    <br>
    <a href="https://github.com/PedroHenmalaquias"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
+<!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
+</td>
+   </td>
+   <td align="center">
+   <b>Manuela Luch</b> <br>
+   <a href="https://github.com/ManuelaLuchSilva"><img src="https://avatars.githubusercontent.com/u/131368191?v=4" width="80px;" alt="Pedro"/></a>
+   <br>
+   <a href="https://github.com/ManuelaLuchSilva"><img src="/images/github-logo-white.png" width="25px;" alt="GitHub"/></a>
 <!--    <a href="https://www.instagram.com/o_pedrohen/"><img src="/pictures/instagram.png" width="25px;" alt="Instagram"/></a> -->
 </td>
 </tr>
